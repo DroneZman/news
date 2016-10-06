@@ -6,7 +6,6 @@
 </head>
 <body>
 Главная страница
-<?php include_once __DIR__.'/view/addNewsForm.html';?>
+<? include_once __DIR__.'/addNewsForm.html';?>
 </body>
 </html>
-<?php ?>
